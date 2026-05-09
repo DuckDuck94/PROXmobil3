@@ -31,6 +31,9 @@ Bus tappy card thing
 
 # Appendix
 https://kevin.wallace.seattle.wa.us/pm3/
+
 https://wiki.pm3.dev/start
+
 https://wiki.pm3.dev/ssh
+
 https://www.reddit.com/r/TriMet/comments/1qjaukx/want_your_own_hop_reader/
